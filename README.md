@@ -1,6 +1,6 @@
 > 使用方法
 
-```javascript
+```html
 <div id="player_1"></div>
 <script src="./lplayer.min.js"></script>
 <script>
